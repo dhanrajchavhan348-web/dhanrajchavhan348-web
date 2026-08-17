@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Dhanraj%20Chavhan&fontSize=40&animation=fadeIn&desc=AWS%20%7C%20DevOps%20Architect%20%7C%20SRE&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Dhanraj%20Chavhan&fontSize=40&animation=fadeIn&desc=AWS%20%7C%20DevOps%20Associate%20%7C%20SRE&descAlignY=65&descAlign=50" />
 
   <h1>✨ Hi there, I'm Dhanraj 👋</h1>
 
