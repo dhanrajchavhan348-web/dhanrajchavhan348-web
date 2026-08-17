@@ -1,46 +1,119 @@
-# 💫 Hi 👋, I'm Dhanraj Chavhan 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Mukund%20Deotale&fontSize=80&animation=fadeIn&desc=DevOps%20%7C%20Cloud%20Architect%20%7C%20SRE&descAlignY=65&descAlign=50" />
 
-  **A passionate Cloud Engineer ||  DevOps Engineer ||**
-    
+  <h1>✨ Hi there, I'm Dhanraj 👋</h1>
 
-💬 **Ask me about:** AWS, DevOps, Docker, Kubernetes, Terraform, Linux, Git, CI/CD, Cloud Infrastructure, Infrastructure as Code (IaC)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ff9800&center=true&vCenter=true&width=600&lines=Building+Resilient+Cloud+Systems;Scaling+Kubernetes+Clusters;Automating+SDLC+with+CI%2FCD;Infrastructure+as+Code+Evangelist" />
+</div>
 
-📫 **How to reach me:** [dhanrajchavhan348@gmail.com](mailto:dhanrajchavhan348@gmail.com)
+---
 
-🌱 **Currently learning:** Advanced Kubernetes, Terraform, Jenkins, AWS Services, and CI/CD Pipelines
+## 👨‍💻 Professional Summary
+**Cloud and DevOps Engineer** designing automated, self-healing cloud infrastructures and high-velocity CI/CD pipelines.
 
-🚀 **Interested in:** Cloud Engineering, DevOps, Automation, Infrastructure as Code, and Site Reliability Engineering (SRE)
+- 🔭 Architecting multi-region production workloads on **AWS & Azure**
+- ⚡ Infrastructure standardization using **Terraform & IaC**
+- 🛡️ DevSecOps integration (Security scanning + policy as code)
+- 💬 Ask me about Kubernetes networking, cloud cost optimization, and system design
 
-⚡ **Fun fact:** I enjoy automating repetitive tasks and turning manual deployments into one-click workflows.
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhanrajchavhan.18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhanrajchavhan348@gmail.com) 
+## 🛠️ Deep Technical Proficiency
 
-<!-- Snake Game Repo View -->
+---
+
+### Cloud Infrastructure
+
+| Domain | Technologies |
+|------|-------------|
+| ![](https://img.shields.io/badge/Public%20Cloud-0e75b6?style=flat-square) | ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| ![](https://img.shields.io/badge/Orchestration-6DB33F?style=flat-square) | ![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) |
+| ![](https://img.shields.io/badge/Networking-ff9800?style=flat-square) | ![](https://img.shields.io/badge/ALB/NLB-555555?style=flat-square) ![](https://img.shields.io/badge/Nginx%20Ingress-009639?style=flat-square&logo=nginx&logoColor=white) ![](https://img.shields.io/badge/Route53-8C4FFF?style=flat-square) |
+
+---
+
+### Automation & Pipelines
+
+| Category | Tools |
+|--------|------|
+| ![](https://img.shields.io/badge/IaC-7E57C2?style=flat-square) | ![](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![](https://img.shields.io/badge/Bicep-1E90FF?style=flat-square) |
+| ![](https://img.shields.io/badge/CI/CD-00C853?style=flat-square) | ![](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
+| ![](https://img.shields.io/badge/Containers-0288D1?style=flat-square) | ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white) |
+| ![](https://img.shields.io/badge/Monitoring-F57C00?style=flat-square) | ![](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white) |
+| ![](https://img.shields.io/badge/Scripting-455A64?style=flat-square) | ![](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+---
+
+
+
+---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dhanrajchavhan348-web&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=dhanrajchavhan348-web&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dhanrajchavhan348-web&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dhanrajchavhan348-web&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=dhanrajchavhan348-web&icon=0&color=0)](https://visitcount.itsvg.in)
-
-☁️ "Code it. Build it. Automate it. Scale it."
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
