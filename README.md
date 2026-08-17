@@ -60,11 +60,11 @@
 
 I'm always interested in connecting with people working in Cloud, DevOps, AWS, Kubernetes, and Automation.
 
-💼 LinkedIn: [https://www.linkedin.com/in/dhanrajchavhan]
+💼 LinkedIn: https://www.linkedin.com/in/dhanrajchavhan
 
-📧 Email: [dhanrajchavhan348@gmail.com]
+📧 Email:    dhanrajchavhan348@gmail.com
 
-🐙 GitHub: [https://github.com/dhanrajchavhan348-web]
+🐙 GitHub:   https://github.com/dhanrajchavhan348-web
 
 
 
