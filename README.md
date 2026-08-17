@@ -8,7 +8,7 @@
 
 ---
 
-👨‍💻 About Me
+**👨‍💻 About Me**
 
 🎯 Professional AWS Cloud & DevOps Engineer
 
