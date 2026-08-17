@@ -8,13 +8,15 @@
 
 ---
 
-## 👨‍💻 Professional Summary
-**Cloud and DevOps Engineer** designing automated, self-healing cloud infrastructures and high-velocity CI/CD pipelines.
-
-- 🔭 Architecting multi-region production workloads on **AWS & Azure**
-- ⚡ Infrastructure standardization using **Terraform & IaC**
-- 🛡️ DevSecOps integration (Security scanning + policy as code)
-- 💬 Ask me about Kubernetes networking, cloud cost optimization, and system design
+**👨‍💻 About Me**
+🎯 Aspiring AWS Cloud & DevOps Engineer
+☁️ Hands-on learning in AWS Cloud Services
+🐧 Strong interest in Linux Administration
+🔄 Interested in CI/CD and deployment automation
+📦 Learning Docker and Kubernetes
+🏗️ Exploring Terraform and Infrastructure as Code
+🔧 Interested in cloud infrastructure, monitoring, and automation
+🌱 Continuously improving my technical and problem-solving skills
 
 ---
 
