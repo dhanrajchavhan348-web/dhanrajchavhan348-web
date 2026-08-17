@@ -56,7 +56,7 @@ I'm always interested in connecting with people working in Cloud, DevOps, AWS, K
 
 📧 Email: [dhanrajchavhan348@gmail.com]
 
-🐙 GitHub: [dhanrajchavhan348-web]
+🐙 GitHub: [https://github.com/dhanrajchavhan348-web]
 
 
 
