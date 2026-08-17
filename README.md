@@ -9,11 +9,10 @@
 ---
 
 👨‍💻 About Me
-🎯 Aspiring AWS Cloud & DevOps Engineer
 
-☁️ Hands-on learning in AWS Cloud Services
+🎯 Enthusiast AWS Cloud & DevOps Engineer
 
-🐧 Strong interest in Linux Administration
+☁️ Hands-on learning in AWS Cloud Services and DevOps Tools
 
 🔄 Interested in CI/CD and deployment automation
 
