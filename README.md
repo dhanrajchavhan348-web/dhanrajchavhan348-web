@@ -8,14 +8,21 @@
 
 ---
 
-**👨‍💻 About Me**
+👨‍💻 About Me
 🎯 Aspiring AWS Cloud & DevOps Engineer
+
 ☁️ Hands-on learning in AWS Cloud Services
+
 🐧 Strong interest in Linux Administration
+
 🔄 Interested in CI/CD and deployment automation
+
 📦 Learning Docker and Kubernetes
+
 🏗️ Exploring Terraform and Infrastructure as Code
+
 🔧 Interested in cloud infrastructure, monitoring, and automation
+
 🌱 Continuously improving my technical and problem-solving skills
 
 ---
